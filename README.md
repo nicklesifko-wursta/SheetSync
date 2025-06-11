@@ -1,5 +1,3 @@
-# Firebase Studio
+# Wursta Sheet Sync
 
-This is a NextJS starter in Firebase Studio.
-
-To get started, take a look at src/app/page.tsx.
+Internal application to automatically pull multiple Google Sheets into a BigQuery Data Set.
